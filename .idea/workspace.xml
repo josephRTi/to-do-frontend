@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc88db50-adda-417c-bce9-87b561dba2f6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/cors-anywhere/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cors-anywhere" beforeDir="false" afterPath="$PROJECT_DIR$/cors-anywhere" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TaskList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TaskList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TheLogin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheLogin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TheRegister.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheRegister.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642077128063</updated>
       <workItem from="1642077130313" duration="3870000" />
-      <workItem from="1643987189762" duration="557000" />
+      <workItem from="1643987189762" duration="910000" />
     </task>
     <servers />
   </component>

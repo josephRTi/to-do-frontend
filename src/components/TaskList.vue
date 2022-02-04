@@ -129,8 +129,6 @@ export default {
 
 .container {
   display: flex;
-  width: 1000px;
-  margin: 20px auto;
   align-items: center;
   justify-content: center;
 }

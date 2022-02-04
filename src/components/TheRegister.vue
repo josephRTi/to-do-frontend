@@ -90,8 +90,6 @@ export default {
 
 .container {
   display: grid;
-  width: 1000px;
-  margin: 0 auto;
   justify-content: center;
   align-items: center;
 }
