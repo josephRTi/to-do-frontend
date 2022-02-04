@@ -69,6 +69,18 @@ export default {
 </script>
 
 <style scoped>
+
+@media (min-width: 800px) {
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .input_line {
+    width: 400px;
+  }
+}
+
 .errors_list {
   list-style: none;
   color: darkred;
@@ -94,7 +106,6 @@ export default {
 }
 
 .input_line {
-  width: 400px;
   height: 30px;
   border: none;
   border-radius: 2px;

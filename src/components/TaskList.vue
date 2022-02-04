@@ -153,8 +153,19 @@ h1 {
   text-align: center;
 }
 
+
+@media (min-width: 800px) {
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .task_input {
+    width: 450px;
+  }
+}
+
 .task_input {
-  width: 450px;
   height: 30px;
   border: none;
   border-radius: 2px;

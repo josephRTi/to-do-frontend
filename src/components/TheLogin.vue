@@ -72,10 +72,21 @@ export default {
   font-family: Montserrat, sans-serif;
 }
 
+@media (min-width: 800px) {
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .input_line {
+    width: 400px;
+  }
+}
+
 .container {
   display: grid;
-  width: 1000px;
-  margin: 0 auto;
+  /*width: 1000px;*/
+  /*margin: 0 auto;*/
   justify-content: center;
   align-items: center;
 }
@@ -90,7 +101,6 @@ export default {
 }
 
 .input_line {
-  width: 400px;
   height: 30px;
   border: none;
   border-radius: 2px;
